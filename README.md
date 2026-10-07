@@ -15,6 +15,6 @@ Surveillance of the oriental fruit fly, *Bactrocera dorsalis*, in Belgium throug
 
 Funded by the Belgian Federal Public Service Health, Food Chain Safety and Environment, contract **RF 25/03**.
 
-[Project information](https://ilvo.vlaanderen.be/en/research-projects/post-entry-surveillance-of-the-oriental-fruit-fly-bactrocera-dorsalis-via-citizen-science-and-pathway-based-trapping) · [Funding acknowledgement](https://www.africamuseum.be/en/get_involved/citizen_science/pestfly_patrol)
+[RMCA project directory](https://www.africamuseum.be/en/staff/896/project_view)
 
 [Laboratory homepage](https://github.com/molecular-lab-RMCA)
