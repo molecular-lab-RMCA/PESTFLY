@@ -16,8 +16,8 @@ Project coordinator: Jochem Bonte (ILVO). Project promoter: Louis Hautier (CRA-W
 
 | Repository | Technical approach | Contents |
 | --- | --- | --- |
-| [PESTFLY_2026_JPS_Bd_genomic_assignment_workflow](https://github.com/molecular-lab-RMCA/PESTFLY_2026_JPS_Bd_genomic_assignment_workflow) | Population genomics and SNP assignment | Genomic assignment workflow, archived results and supplementary material for the 2026 study |
-| [PESTFLY_Insects_2025](https://github.com/molecular-lab-RMCA/PESTFLY_Insects_2025) | Population genomics and COI analysis | Workflow resources and links to the original analyses for Vanbergen et al. (2025) |
+| [Virgilio et al. (2026): Bactrocera dorsalis genomic assignment (PESTFLY)](https://github.com/molecular-lab-RMCA/Virgilio_et_al_2026_Bd_genomic_assignment_PESTFLY) | Population genomics and SNP assignment | Genomic assignment workflow, archived results and supplementary material for the 2026 study |
+| [Vanbergen et al. (2025): Bactrocera dorsalis genomic tracing (PESTFLY)](https://github.com/molecular-lab-RMCA/Vanbergen_et_al_2025_Bd_genomic_tracing_PESTFLY) | Population genomics and COI analysis | Workflow resources and links to the original analyses for Vanbergen et al. (2025) |
 
 [Internal repositories (restricted access)](https://github.com/molecular-lab-RMCA/.github-private/blob/main/PESTFLY.md)
 
