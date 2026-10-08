@@ -19,6 +19,8 @@ Project coordinator: Jochem Bonte (ILVO). Project promoter: Louis Hautier (CRA-W
 | [Virgilio et al. (2026): Bactrocera dorsalis genomic assignment (PESTFLY)](https://github.com/molecular-lab-RMCA/Virgilio_et_al_2026_Bd_genomic_assignment_PESTFLY) | Population genomics and SNP assignment | Genomic assignment workflow, archived results and supplementary material for the 2026 study |
 | [Vanbergen et al. (2025): Bactrocera dorsalis genomic tracing (PESTFLY)](https://github.com/molecular-lab-RMCA/Vanbergen_et_al_2025_Bd_genomic_tracing_PESTFLY) | Population genomics and COI analysis | Workflow resources and links to the original analyses for Vanbergen et al. (2025) |
 
+**Abbreviations:** SNP, single nucleotide polymorphism; COI, mitochondrial cytochrome c oxidase subunit I gene.
+
 [Internal repositories (restricted access)](https://github.com/molecular-lab-RMCA/.github-private/blob/main/PESTFLY.md)
 
 ## Funding
