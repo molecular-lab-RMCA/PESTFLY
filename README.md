@@ -2,6 +2,16 @@
 
 Surveillance of the oriental fruit fly, *Bactrocera dorsalis*, in Belgium through citizen science and targeted trapping.
 
+## Partners and collaborators
+
+| Institution | Country |
+| --- | --- |
+| Royal Museum for Central Africa (RMCA) | Belgium |
+| Flanders Research Institute for Agriculture, Fisheries and Food (ILVO) | Belgium |
+| Centre wallon de Recherches agronomiques (CRA-W) | Belgium |
+
+Project coordinator: Jochem Bonte (ILVO). Project promoter: Louis Hautier (CRA-W).
+
 ## Public repositories
 
 | Repository | Contents |
